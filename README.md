@@ -1,22 +1,23 @@
-# bomb_lab_solution
-System Programming Binary Bomb Lab
-
+# Bomb Lab Solution
 
 For the Phase 1, 2 and 5, Explained below.
 
-For the Phase 3, 4 and 6, Run scripts and watch for answer.
+For the Phase 3, 4 and 6, Run scripts and watch for answer. Before start, make sure that anwser file matches with the script.
  
 If the scripts does not work, increase the range.
 
-Phase 1:
+## Phase 1:
 
 Just open terminal
 
---->  strings bomb
+```c
+strings bomb
+```
+Have a look at [ph_1.jpg](https://github.com/bilaltan/bomb_lab_solution/blob/main/ph_1.JPG)
 
-Have a look at ph_1.jpg
+## Phase 2:
 
-Phase 2:
+Try these values.
 
 0 1 1 2 3 5
 
@@ -29,7 +30,7 @@ Phase 2:
 1 2 6 24 120 720
 
 
-Phase 5:
+## Phase 5:
 
 j4o567
 
